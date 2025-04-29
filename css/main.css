@@ -13,7 +13,7 @@ body {
 }
 
 .slide {
-    width: 1280px;
+    width: 100%;
     min-height: 720px;
     background-color: white;
     border-radius: 12px;
@@ -48,7 +48,7 @@ body {
 .title {
     color: #0a3d62;
     font-weight: 700;
-    font-size: 2rem;
+    font-size: 1.5rem;
     margin-bottom: 1rem;
 }
 
@@ -61,7 +61,7 @@ body {
 
 .description {
     color: #333;
-    font-size: 1.1rem;
+    font-size: 1rem;
     line-height: 1.7;
     max-width: 800px;
     margin: 0 auto;
@@ -90,7 +90,7 @@ body {
 }
 
 .ownership-percent {
-    font-size: 2.5rem;
+    font-size: 1.5rem;
     font-weight: 700;
     color: #0a3d62;
     margin-bottom: 5px;
@@ -120,20 +120,20 @@ body {
 
 .metric-title {
     color: #555;
-    font-size: 1rem;
+    font-size: 0.8rem;
     font-weight: 600;
     margin-bottom: 8px;
 }
 
 .metric-value {
     color: #0a3d62;
-    font-size: 1.5rem;
+    font-size: 1rem;
     font-weight: 700;
 }
 
 .metric-subtitle {
     color: #777;
-    font-size: 0.9rem;
+    font-size: 0.7rem;
 }
 
 .metric-icon {
@@ -175,14 +175,14 @@ body {
 
 .stock-metric {
     color: #0a3d62;
-    font-size: 1.8rem;
+    font-size: 1.2rem;
     font-weight: 700;
     margin-bottom: 5px;
 }
 
 .stock-label {
     color: #555;
-    font-size: 1rem;
+    font-size: 0.9rem;
     font-weight: 500;
 }
 
@@ -243,14 +243,14 @@ body {
 
 .dividend-value {
     color: #0a3d62;
-    font-size: 2rem;
+    font-size: 1.5rem;
     font-weight: 700;
     margin-bottom: 5px;
 }
 
 .dividend-label {
     color: #555;
-    font-size: 1rem;
+    font-size: 0.8rem;
     font-weight: 500;
 }
 
@@ -284,7 +284,7 @@ body {
 .info-title {
     color: #0a3d62;
     font-weight: 600;
-    font-size: 1.1rem;
+    font-size: 1rem;
     margin-bottom: 10px;
 }
 
@@ -310,7 +310,7 @@ body {
     color: white;
     padding: 12px 16px;
     font-weight: 600;
-    font-size: 1.1rem;
+    font-size: 1rem;
     border-radius: 12px 12px 0 0;
 }
 
@@ -346,7 +346,7 @@ body {
 
 .outlook-value {
     color: #0a3d62;
-    font-size: 1.8rem;
+    font-size: 1.4rem;
     font-weight: 700;
 }
 
